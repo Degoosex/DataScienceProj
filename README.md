@@ -33,4 +33,4 @@
 Предсказание ухода клиента для телеком компании 
 15. [toxic comment detection ML DS](https://github.com/Degoosex/DataScienceProj/tree/main/toxic%20comment%20detection%20ML%20DS)
 Модель для распознования ненормативного лексикона
-16. In progress
+16. TBD
