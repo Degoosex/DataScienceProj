@@ -13,9 +13,9 @@
 Предсказание ухода клиента из банка
 5. [credibility analysis da](https://github.com/Degoosex/DataScienceProj/tree/main/credibility%20analysis%20da)
 Анализ платежоспособности клиента для кредитной организации 
-6. [gold recovery from ore ML DS] (https://github.com/Degoosex/DataScienceProj/tree/main/gold%20recovery%20from%20ore%20ML%20DS)
+6. [gold recovery from ore ML DS](https://github.com/Degoosex/DataScienceProj/tree/main/gold%20recovery%20from%20ore%20ML%20DS)
 Предсказания добычи золота из рудя для промышленности 
-7. [music analysis DA] (https://github.com/Degoosex/DataScienceProj/tree/main/music%20analysis%20da)
+7. [music analysis DA](https://github.com/Degoosex/DataScienceProj/tree/main/music%20analysis%20da)
 Анализ музыкальных предпочтений у разных городов 
 8. [next best game trend analysis DA](https://github.com/Degoosex/DataScienceProj/tree/main/next%20best%20game%20trend%20analysis)
 Анализ трендов игровой индустрии на основе исторических данных и рекомендации
